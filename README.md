@@ -1,5 +1,5 @@
 # JavaScript Basics Project
-This repository contains simple JavaScript code examples created to fulfill specific learning objectives.
+This repository contains simple JavaScript code examples created to fulfill specific learning objectives in the ALX Frontend Engineering Program.
 
 ## Objectives Covered
 Understand why JavaScript is amazing
